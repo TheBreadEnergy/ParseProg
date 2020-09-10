@@ -1,0 +1,3 @@
+teleServiceCode = 21'H : 676
+Messages from them : 124
+Total lines : 384942
